@@ -1,0 +1,2 @@
+maxAllowedGrad = 0.08
+maxAllowedSpikeTime = 10
